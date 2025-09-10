@@ -11,5 +11,5 @@
 #### i'm happy ☹
 <p align="center">
 <p align="center">
-  <img width="400" height="250" src="https://github.com/mills3123/thisminework/edit/master/README.md/shrek.webp">
+  <img width="400" height="250" src="https://github.com/mills3123/thisminework/blob/newBranchNewMills/shrek.webp">
 </p>
