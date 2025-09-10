@@ -10,5 +10,6 @@
 ### __😊The end praktika__
 #### i'm happy ☹
 <p align="center">
-![Image of cat](https://github.com/blademoon/Markdown/blob/main/Picture/cat.jpg)
+<p align="center">
+  <img width="400" height="250" src="https://github.com/mills3123/thisminework/shrek.webp">
 </p>
