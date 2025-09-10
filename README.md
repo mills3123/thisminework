@@ -1,11 +1,11 @@
 #                                             My work
-### 📚Training
+### __📚Training__
 #### This is lie))0
-### 👓Reading
+### __👓Reading__
 #### It's true ✔️ 
-### 🛠️Working
+### __🛠️Working__
 #### IT'S REALLY TRUE ✔️✔️✔️✔
-### 😔Tilt
+### __😔Tilt__
 #### LIE(i'm happy) ❌
-### 😊The end praktika
+### __😊The end praktika__
 #### i'm happy ☹
